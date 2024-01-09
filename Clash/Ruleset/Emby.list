@@ -1,6 +1,5 @@
 # 内容：Emby
-# 数量：4条
+# 数量：3条
 USER-AGENT,Emby*
 DOMAIN-KEYWORD,-emby-
-DOMAIN-KEYWORD,emby2.misakaf.org
 DOMAIN-KEYWORD,push-kr.misakaf.org
