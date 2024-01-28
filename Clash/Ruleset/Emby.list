@@ -1,6 +1,8 @@
 # 内容：Emby
-# 数量：4条
+# 数量：6条
 DOMAIN,emby2.misakaf.org
 DOMAIN,push-kr.misakaf.org
+DOMAIN,stream1.misakaf.org
+DOMAIN,stream2.misakaf.org
 DOMAIN,stream3.misakaf.org
 DOMAIN,porn.aca.best
